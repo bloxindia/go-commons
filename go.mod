@@ -1,3 +1,3 @@
-module github.com/jeyaram-a/go-commons
+module github.com/bloxindia/go-commons
 
 go 1.20
